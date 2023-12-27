@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T06:18:28.617Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.12" etag="3OPnyfHvFHbuSOqKMv6V" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T06:19:28.826Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.12" etag="mcFXUdYvMQYNlijlW_dr" type="github">
   <diagram id="uRI4BPjh-oSYJNO2jy94" name="Page-1">
     <mxGraphModel dx="2300" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -126,6 +126,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="410" as="sourcePoint" />
             <mxPoint x="490" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="220" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OT16slN5LOoRO3BBS933-51" value="consume" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OT16slN5LOoRO3BBS933-50">
